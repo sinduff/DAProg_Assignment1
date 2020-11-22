@@ -1,7 +1,7 @@
 # Assignment 1
 ### Submitted by Sinéad Duffy, GMIT ID No. 10016151
 
-![Numpy_Logo.PNG](attachment:Numpy_Logo.PNG)
+![Numpy_Logo.PNG](C:\Users\User\Documents\GMIT - HDip in Data Analytics\Semester 2\Programming for DA\1 - Assignment 1 - NumpyNumpy_Logo.PNG)
 
 ### Assignment Brief 
 
